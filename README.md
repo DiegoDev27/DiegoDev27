@@ -4,7 +4,7 @@ I'm a backend developer.
 
 <img align="right" src="https://media3.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
-
+- 💼 Currently a bachelor's degree in Information Systems.
 - 🌱 I’m currently learning Kotlin.
 
 **Languages and Tools:**  
