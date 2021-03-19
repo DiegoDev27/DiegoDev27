@@ -1,6 +1,5 @@
 ### Hi guys 👋, I'm Diego.
 <!--
-**DiegoDev27/DiegoDev27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 I'm a backend developer.
 
 <img align="right" src="https://media3.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
