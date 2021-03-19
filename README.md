@@ -1,5 +1,5 @@
 ### Hi guys 👋, I'm Diego.
-<!--
+
 I'm a backend developer.
 
 <img align="right" src="https://media3.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
@@ -20,6 +20,3 @@ I'm a backend developer.
 <a href="https://www.linkedin.com/in/diego-souza/">
   <img alt="Diego LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-
-**DiegoDev27/DiegoDev27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
