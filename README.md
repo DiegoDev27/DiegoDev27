@@ -1,6 +1,6 @@
 ### Hi guys 👋, I'm Diego.
 
-I'm a backend developer.
+I'm a fullstack developer.
 
 <img align="right" src="https://media3.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
